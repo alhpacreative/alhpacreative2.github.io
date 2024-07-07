@@ -1,0 +1,117 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 595px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 475px;
+  background-image: url("images/-white-teeth-keeps-hands-stomach-being-high-spirit-wears-white-shirt-rejoices-positive-moments-life-people-emotions-concept.jpg");
+  background-position: 50% 50%;
+  --radius: 50px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 475px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 50px 30px 50px 50px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 11px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  margin: 31px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 512px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 392px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 392px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 787px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 667px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 720px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 500px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 535px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 315px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.125rem;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 36px;
+}
